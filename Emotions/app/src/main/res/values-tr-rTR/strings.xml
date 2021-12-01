@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Duygular</string>
+    <string name="start_game">Oyunu Başlat</string>
+    <string name="scoreboard">Skor Tablosu</string>
+    <string name="settings">Ayarlar</string>
+    <string name="exit">Çıkış</string>
+    <string name="my_emotions">Benim Duygularım</string>
+    <string name="information">Bilgi</string>
+    <string name="facial_expressions">Yüz İfadeleri</string>
+    <string name="todo">TODO</string>
+    <string name="description">Tanım</string>
+    <string name="title">Başlık</string>
+    <string name="mg">mg</string>
+    <string name="t1">t1</string>
+    <string name="t2">t2</string>
+    <string name="open_sound">Müziği aç</string>
+    <string name="score">Skor</string>
+    <string name="which_is_correct_emotions">Hangisi doğru emoji?</string>
+    <string name="_10s">10s</string>
+    <string name="_0_10">0/10</string>
+    <string name="can_you_find_the_correct_emotions">Doğru emojiyi bulabilir misin?</string>
+    <string name="next">Sonraki</string>
+    <string name="close_sound">Müziği kapat</string>
+    <string name="points">Puan:</string>
+    <string name="personal_best">En iyi skorun:</string>
+    <string name="game_over">Oyun Bitti</string>
+    <string name="emotion_description">Duygu Tanımları</string>
+    <string name="change_language">Dili değiştir</string>
+    <string name="happy">Mutlu</string>
+    <string name="sad">Üzgün</string>
+    <string name="anxious">Endişeli</string>
+    <string name="cheerful">Neşeli</string>
+    <string name="fearful">Korkmuş</string>
+    <string name="excited">Heyecanlı</string>
+    <string name="name">İsim</string>
+    <string name="save_score">Puanı Kaydet</string>
+    <string name="show_score">Puanı Göster</string>
+    <string name="correct">Doğru</string>
+    <string name="wrong">Yanlış</string>
+    <string name="back_main_page">Ana Sayfaya Dön</string>
+    <string name="language">Dil seçiniz...</string>
+    <string name="areSure">Çıkmak istediğinizden emin misiniz?</string>
+    <string name="no">Hayır</string>
+    <string name="yes">Evet</string>
+    <string name="hasP">puan yaptı</string>
+    <string name="data">Skorunuzu başarıyla kaydettiniz</string>
+    <string name="data2">Bazı terslikler oldu!</string>
+    <string name="data3">Bu alan boş bırakılamaz!</string>
+    <string name="lan1">İngilizce</string>
+    <string name="lan2">Türkçe</string>
+
+    <string-array name="emote_name">
+        <item>Mutlu</item>
+        <item>Üzgün</item>
+        <item>Neşeli</item>
+        <item>Endişeli</item>
+        <item>Korkmuş</item>
+        <item>Heyecanlı</item>
+    </string-array>
+    <string-array name="description">
+        <item>Mutluluk neşe ve zevktir</item>
+        <item>Mutsuz</item>
+        <item>Fark edilir derecede mutlu \nve iyimser</item>
+        <item>İnsanların stresli oldukları \nzaman gösterdikleri yüz\nifadesi</item>
+        <item>Rahatsız eden ve olumsuz\ndurumlarda oluşan yüz ifadesi</item>
+        <item>Yüksek bir enerji durumu \ngösterme</item>
+    </string-array>
+</resources>

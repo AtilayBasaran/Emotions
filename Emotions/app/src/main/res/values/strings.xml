@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Emotions</string>
+    <string name="start_game">Start Game</string>
+    <string name="scoreboard">Scoreboard</string>
+    <string name="settings">Settings</string>
+    <string name="exit">Exit</string>
+    <string name="my_emotions">My Emotions</string>
+    <string name="information">Information</string>
+    <string name="facial_expressions">Facial Expressions</string>
+    <string name="todo">TODO</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+    <string name="mg">mg</string>
+    <string name="t1">t1</string>
+    <string name="t2">t2</string>
+    <string name="open_sound">Open Sound</string>
+    <string name="score">Score</string>
+    <string name="which_is_correct_emotions">Which is correct emotions?</string>
+    <string name="_10s">10s</string>
+    <string name="_0_10">0/10</string>
+    <string name="can_you_find_the_correct_emotions">Can you find the correct emotions?</string>
+    <string name="next">Next</string>
+    <string name="close_sound">close sound</string>
+    <string name="points">Points:</string>
+    <string name="personal_best">Personal Best:</string>
+    <string name="game_over">Game Over</string>
+    <string name="emotion_description">Emotion Description</string>
+    <string name="change_language">Change Language</string>
+    <string name="happy">Happy</string>
+    <string name="sad">Sad</string>
+    <string name="anxious">Anxious</string>
+    <string name="cheerful">Cheerful</string>
+    <string name="fearful">Fearful</string>
+    <string name="excited">Excited</string>
+    <string name="name">Name</string>
+    <string name="save_score">Save Score</string>
+    <string name="show_score">Show Score</string>
+    <string name="correct">Correct</string>
+    <string name="wrong">Wrong</string>
+    <string name="back_main_page">Back Main Page</string>
+    <string name="language">Choose language...</string>
+    <string name="areSure">Are you sure to want exit?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="hasP">score made</string>
+    <string name="data">Data successfull inserted!</string>
+    <string name="data2">Someting went wrong!</string>
+    <string name="data3">You must put something in the text field</string>
+    <string name="lan1">English</string>
+    <string name="lan2">Turkish</string>
+
+    <string-array name="emote_name">
+        <item>Happy</item>
+        <item>Sad</item>
+        <item>Cheerful</item>
+        <item>Anxious</item>
+        <item>Fearful</item>
+        <item>Excited</item>
+    </string-array>
+    <string-array name="description">
+        <item>Happy is a feeling of joy,\npleasure, or good fortune</item>
+        <item>Unhappy</item>
+        <item>Noticeably happy \nand optimistic</item>
+        <item>Facial expression that \npeople show when they\nare stressed</item>
+        <item>Facial expression that \noccurs in disturbing \nand negative situations</item>
+        <item>Having, showing, or \ncharacterized by a \nheightened state of energy</item>
+    </string-array>
+
+</resources>

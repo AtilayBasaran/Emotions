@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EBCAF1"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="40dp"
+        android:text="@string/settings"
+        android:textSize="36sp"
+        android:textStyle="bold" />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="605dp">
+
+        <Button
+            android:id="@+id/language"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:onClick="change"
+            android:text="@string/change_language"
+            app:backgroundTint="#B28BF8"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:layout_editor_absoluteX="159dp" />
+
+        <Button
+            android:id="@+id/backMenu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:onClick="backMenu"
+            android:text="@string/back_main_page"
+            app:backgroundTint="#B28BF8"
+            app:layout_constraintTop_toBottomOf="@+id/language" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</LinearLayout>
